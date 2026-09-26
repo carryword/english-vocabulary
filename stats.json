@@ -1,0 +1,84 @@
+{
+  "total": 2138,
+  "verified_true": 2138,
+  "level": {
+    "1": 307,
+    "2": 892,
+    "3": 939
+  },
+  "pos": {
+    "n": 453,
+    "adj": 842,
+    "v": 823,
+    "adv": 17,
+    "prep": 1,
+    "conj": 2
+  },
+  "samples": {
+    "1": [
+      "bank",
+      "bank",
+      "happy",
+      "sad",
+      "big",
+      "small",
+      "fast",
+      "slow",
+      "good",
+      "bad",
+      "hot",
+      "cold"
+    ],
+    "2": [
+      "light",
+      "run",
+      "important",
+      "improve",
+      "strange",
+      "angry",
+      "beautiful",
+      "clever",
+      "dangerous",
+      "quiet",
+      "loud",
+      "brave"
+    ],
+    "3": [
+      "feasible",
+      "controversial",
+      "elaborate",
+      "elaborate",
+      "substantial",
+      "infrastructure",
+      "influential",
+      "prominent",
+      "abundant",
+      "acquire",
+      "ambiguous",
+      "apparent"
+    ]
+  },
+  "syn_dist": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      2,
+      13
+    ],
+    [
+      3,
+      1997
+    ],
+    [
+      4,
+      126
+    ]
+  ],
+  "version": "0.5.2"
+}

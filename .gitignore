@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Large or regenerable intermediates (stats.json is committed intentionally)
