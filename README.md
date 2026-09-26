@@ -109,6 +109,8 @@ english-vocabulary/
 MIT — see [LICENSE](LICENSE). You can use this data for commercial products, apps, and research;
 attribution is appreciated but not required.
 
+Maintained by [carryword.com](https://www.carryword.com/) — vocabulary data & tools for learners.
+
 ---
 
 ## Roadmap
